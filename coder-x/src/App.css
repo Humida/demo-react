@@ -1,0 +1,20 @@
+.App {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.App {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 400px;
+    /* background-color: #3b5998; */
+    height: 100vh;
+    color: #000;
+    /* border-radius: 8px; */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
